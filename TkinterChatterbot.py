@@ -1,4 +1,4 @@
-#from chatterbot import ChatBot
+from chatterbot import ChatBot
 import tkinter as tk
 try:
     import ttk as ttk
